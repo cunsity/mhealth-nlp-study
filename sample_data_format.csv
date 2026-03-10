@@ -1,0 +1,4 @@
+review_id,review_text,clean_text,satisfaction_rating,improvement_label,sentiment_score
+1,"The doctor was patient and my symptoms improved quickly.","doctor patient symptoms improved quickly",5,1,0.82
+2,"The service was okay but I still felt discomfort afterward.","service okay still felt discomfort afterward",3,0,-0.12
+3,"Consultation was helpful and pain was reduced.","consultation helpful pain reduced",4,1,0.64
